@@ -37,7 +37,13 @@
     {"id":{"name":"Obj_car_parked","path":"objects/Obj_car_parked/Obj_car_parked.yy",},},
     {"id":{"name":"Obj_car","path":"objects/Obj_car/Obj_car.yy",},},
     {"id":{"name":"Obj_goal","path":"objects/Obj_goal/Obj_goal.yy",},},
+    {"id":{"name":"Object4","path":"objects/Object4/Object4.yy",},},
     {"id":{"name":"rm_1","path":"rooms/rm_1/rm_1.yy",},},
+    {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
+    {"id":{"name":"sd_crash","path":"sounds/sd_crash/sd_crash.yy",},},
+    {"id":{"name":"sd_honk","path":"sounds/sd_honk/sd_honk.yy",},},
+    {"id":{"name":"sd_music","path":"sounds/sd_music/sd_music.yy",},},
+    {"id":{"name":"sd_win","path":"sounds/sd_win/sd_win.yy",},},
     {"id":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},},
     {"id":{"name":"spr_car_crashed","path":"sprites/spr_car_crashed/spr_car_crashed.yy",},},
     {"id":{"name":"Spr_car_down","path":"sprites/Spr_car_down/Spr_car_down.yy",},},
@@ -53,6 +59,7 @@
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"rm_1","path":"rooms/rm_1/rm_1.yy",},},
+    {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
